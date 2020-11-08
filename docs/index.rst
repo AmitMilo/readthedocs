@@ -12,6 +12,7 @@ Welcome to readthedocs's documentation!
 
    modules
    tmp1/index
+   tmp2/index
 
 
 

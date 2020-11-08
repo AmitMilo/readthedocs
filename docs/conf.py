@@ -14,6 +14,7 @@ master_doc = 'index'
 
 import os
 import sys
+sys.path.insert(0, os.path.abspath('../tmp2'))
 sys.path.insert(0, os.path.abspath('../tmp1'))
 sys.path.insert(0, os.path.abspath('..'))
 

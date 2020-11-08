@@ -7,7 +7,7 @@ class Excited:
     """
     Because I'm excited.
     """
-    def __init__(self, excited=False):
+    def __init__(self, excited=True):
         """
         Of course you are excited.
         Args:
