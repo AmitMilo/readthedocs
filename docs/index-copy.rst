@@ -10,10 +10,11 @@ Welcome to readthedocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   modules
+.. autosummary::
+   :toctree: _autosummary
+   :recursive:
 
-   tmp1/index
-   tmp2/index
+   readthedocs
 
 
 
