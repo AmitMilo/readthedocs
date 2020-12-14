@@ -1,25 +1,12 @@
-.. readthedocs documentation master file, created by
-   sphinx-quickstart on Mon Nov  2 16:26:44 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to readthedocs's documentation!
-=======================================
-
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+	:maxdepth: 2
+	:caption: Contents:
 
-   modules
+	modules
 
-   tmp1/index
-   tmp2/index
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+	tmp5/index
+	tmp2/index
+	tmp3/index
+	tmp4/index
+	heb_to_en/index
+	tmp1/index

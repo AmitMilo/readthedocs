@@ -1,5 +1,6 @@
 """
 This is a foo file under tmp1 directory.
+This is a new line.
 """
 
 

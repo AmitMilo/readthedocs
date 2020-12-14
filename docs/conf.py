@@ -14,9 +14,6 @@ master_doc = 'index'
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath('../tmp2'))
-sys.path.insert(0, os.path.abspath('../tmp1'))
-sys.path.insert(0, os.path.abspath('../..'))
 
 
 # -- Project information -----------------------------------------------------
@@ -58,3 +55,10 @@ html_theme = 'classic'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+sys.path.insert(0, os.path.abspath('../tmp4'))
+sys.path.insert(0, os.path.abspath('../tmp3'))
+sys.path.insert(0, os.path.abspath('../tmp2'))
+sys.path.insert(0, os.path.abspath('../tmp1'))
+sys.path.insert(0, os.path.abspath('../..'))
+sys.path.insert(0, os.path.abspath('../tmp5'))
